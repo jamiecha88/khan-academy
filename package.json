@@ -4,7 +4,7 @@
   "description": "clone",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"No build specified\" && exit 1",
+    "build": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
