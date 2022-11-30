@@ -1,0 +1,21 @@
+{
+  "name": "khan-academy",
+  "version": "1.0.0",
+  "description": "clone",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiecha88/khan-academy.git"
+  },
+  "author": "Jamie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamiecha88/khan-academy/issues"
+  },
+  "homepage": "https://github.com/jamiecha88/khan-academy#readme"
+}
